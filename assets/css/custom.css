@@ -1,0 +1,8 @@
+.table tbody tr td {
+    vertical-align: middle;
+}
+
+.alert {        
+    display: flex;
+    align-items: center;
+}
